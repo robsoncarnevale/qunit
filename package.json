@@ -1,0 +1,25 @@
+{
+  "name": "qunit",
+  "version": "1.0.0",
+  "description": "Testes unitários",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsoncarnevale/qunit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robsoncarnevale/qunit/issues"
+  },
+  "homepage": "https://github.com/robsoncarnevale/qunit#readme",
+  "devDependencies": {
+    "qunit": "^2.19.3"
+  },
+  "dependencies": {
+    "jquery": "^3.6.3"
+  }
+}
